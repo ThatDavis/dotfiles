@@ -1,0 +1,12 @@
+[window]
+title = "Happy Fun-Time"
+dynamic_title = true
+dimensions = { columns = 250, lines = 50 }
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular"}
+
+[general]
+import = [
+"~/.config/alacritty/catppuccin-macchiato.toml"
+]
